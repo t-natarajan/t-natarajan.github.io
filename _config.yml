@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thangam Natarajan / Dr T's webpage"
+title                    : "Thangam Natarajan"
 title_separator          : "-"
 name                     : &name "Thangam Natarajan"
 description              : &description "Post-doctoral Fellow, Georgia Tech."
